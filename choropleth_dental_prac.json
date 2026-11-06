@@ -5,7 +5,7 @@
     "subtitle": "Full-time-equivalent dentists per 100,000 people, 2024"
   },
   "width": 640,
-  "height": 500,
+  "height": 420,
   "projection": {"type": "equalEarth", "rotate": [-134, 0, 0]},
   "data": {
     "url": "https://raw.githubusercontent.com/ccha0259/FIT3179-DV2/main/australia_states.topojson",
